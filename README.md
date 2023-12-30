@@ -50,4 +50,3 @@
     - Menyusun rencana pemeliharaan untuk produk jika diperlukan.
     - Menanggapi dan memperbaiki masalah produk yang dilaporkan pelanggan.
 
-Penting untuk terus memonitor dan memperbarui backlog sepanjang proyek berlangsung, menyesuaikannya dengan perubahan kebutuhan atau prioritas proyek.
